@@ -23,6 +23,7 @@ import java.net.URL;
 @EnableJpaAuditing
 public class StartApp
 {
+
     public static void main( String[] args )
     {
     	SpringApplication.run( App.class, args);
